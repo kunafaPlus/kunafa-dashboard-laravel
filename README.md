@@ -3,11 +3,10 @@ Laravel Full-Stack Dashboard A modern, feature-rich admin dashboard built with L
 
 ---
 
-## 🚀 Available Versions
+## 🚀 Kunafa Available Projects
 Kunafa Project is a versatile open-source dashboard available in multiple technologies, catering to different development preferences. Explore the versions below and choose the one that best fits your tech stack!
 
-### 📌 **Kunafa Dashboard Projects**
-| Version                                                                                           | Technology                                          
+| Project                                                                                           | Technology                                          
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | 📱 [**Kunafa Mobile App**](https://github.com/kunafaPlus/kunafa-mobile-app)                       | Kunafa Mobile App (Coming Soon)                     | 🔜 |
 | 🌿 [**Kunafa Dashboard Vue.js**](https://github.com/kunafaPlus/kunafa-dashboard-vue)              | Vue 3 + Vite + Pinia + Tailwind CSS (✅ v1 released) |
